@@ -88,6 +88,7 @@ Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de A
 
 ```
 IMPORTANTE
+
 Caso você tenha dúvidas sobre o projeto durante esta fase de construção,  
 você tem a opção de entrar em contato com seu professor do curso pela plataforma ou  
 conversar diretamente com a comunidade de alunos da Alura
