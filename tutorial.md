@@ -12,7 +12,7 @@ Existem 2 possíveis abordagens para tutoriais
 
 # Crie uma conta na FireBank 
 
-Neste tutorial, você irá entender como iniciar a gestão da sua vida financeira criando uma conta gratuita na Bytebank.
+Neste tutorial, você irá entender como iniciar a gestão da sua vida financeira criando uma conta gratuita na FireBank.
 
 ## Visão Geral 
 
@@ -48,6 +48,7 @@ O cadastro é rápido e basta você seguir às instruções que cada tela solici
 IMPORTANTE 
 Certifique-se de que se trata de um e-mail válido,  
 pois ao final do processo enviamos um link de ativação da sua conta
+
 ``` 
 
 ![Captura de Tela 2023-11-26 às 18 23 05](https://github.com/marimoreiratw/projeto-alura/assets/98783099/a461076c-51d2-4df5-aaa4-cf23a0e44a41)
@@ -88,6 +89,7 @@ IMPORTANTE
 Caso você tenha dúvidas sobre o projeto durante esta fase de construção,  
 você tem a opção de entrar em contato com seu professor do curso pela plataforma ou  
 conversar diretamente com a comunidade de alunos da Alura
+
 ```
 
 
