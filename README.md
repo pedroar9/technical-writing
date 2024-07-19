@@ -31,6 +31,7 @@ Os agradecimentos vão para essa pessoa incrível:
 
 Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
 
+___
 
 >[!TIP] Callouts can have custom titles
 > Like this one.
