@@ -30,6 +30,6 @@ Caso o erro persista, verifique se sua conexão à internet está funcionando ou
 
 ### Links relacionados 
 
-* [Link 1](www.url.com.br)
+* [Link 1](https://github.com/pedroar9/technical-writing/)
 * Link 2 
 * Link 3

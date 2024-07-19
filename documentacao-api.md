@@ -13,7 +13,7 @@ Use as APIs da FireBank para se integrar ao checkout da sua loja e processe paga
 * Registre-se no Portal de Desenvolvedores da FireBank para ser autorizado a executar as APIs do banco. 
 * Sempre configure Token de Acesso no header de Autorização de todas as suas chamadas, tal como o exemplo:
 
-```
+```json
 curl -H ‘Authorization: Bearer <ENV_ACCESS_TOKEN>’  \
 https://api.mercadopago.com/V1/payments
 ````
@@ -23,7 +23,7 @@ https://api.mercadopago.com/V1/payments
 É o recurso que permite você criar, obter ou gerenciar os pagamentos da sua loja virtual integrada aos serviços financeiros da FireBank.  
 
 ### URL base para as chamadas 
-```
+```json
 https://api.mercadopago.com/v1/payments
 ```
 
@@ -40,7 +40,7 @@ https://api.mercadopago.com/v1/payments
 
 ### Endpoint
 
-```
+```json
 [{GET} /{request-url}/{{path-parameter}}](https://api.mercadopago.com/v1/payments/search)]
 ```
 
@@ -58,7 +58,7 @@ https://api.mercadopago.com/v1/payments
 
 ### Exemplo de Requisição
 
-```
+```json
 curl -X GET \
       'https://api.mercadopago.com/v1/payments/search?sort=date_created&criteria=desc&external_reference=ID_REF&range=date_created&begin_date=NOW-30DAYS&end_date=NOW&store_id=47792478&pos_id=58930090'\
        -H 'Content-Type: application/json' \
@@ -76,7 +76,7 @@ curl -X GET \
 
 ### Response example
 
-```
+```json
 [
   {
     "paging": {
@@ -125,4 +125,3 @@ curl -X GET \
   }
 ]
 ```
----
