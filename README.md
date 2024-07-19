@@ -30,3 +30,13 @@ Os agradecimentos vão para essa pessoa incrível:
 <img src="https://media.licdn.com/dms/image/C4E03AQGT0K0dZtdTHQ/profile-displayphoto-shrink_800_800/0/1563639326413?e=1726704000&v=beta&t=VYcO3MAqWUrouFTSjp_UmPaU4EVtt65txDJzJQJ0zrY" width="80" alt="PESSOA" /></a>  
 
 Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
+
+
+> [!tip] Callouts can have custom titles
+> Like this one.
+
+
+> [!tip] Title-only callout
+
+> [!info]
+> Here's a callout block.
