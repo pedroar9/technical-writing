@@ -5,8 +5,8 @@
 Este repositório faz parte do curso de formação de Technical Writing, da Alura. 
 Nele, você vai encontrar modelos de documentações técnicas que serão abordadas nas aulas com objetivo de fixar seus conhecimentos e trazer modelos de base para você iniciar neste universo de documentar.
 
-### :books: Tipos de documentação
-O curso irá abordar 6 formatos de documentação técnica:
+### :books: Tipos de documentação :book:
+O curso irá abordar diversos formatos de documentação técnica:
 
 1 - [Documentação Funcional](https://github.com/pedroar9/technical-writing/blob/master/documentacao-funcional.md)  
 2 - [Tutorial](https://github.com/pedroar9/technical-writing/blob/master/tutorial.md)  
