@@ -17,8 +17,8 @@ O curso irá abordar diversos formatos de documentação técnica:
 7 - [Guia de Início Rápido (Quick Start Guide)](https://github.com/pedroar9/technical-writing/blob/master/guia-inicio-rapido.md)  
 8 - [Perguntas frequentes (FAQ)](https://github.com/pedroar9/technical-writing/blob/master/perguntas-frequentes-faq.md)  
 9 - [Guia de Estilo de documentação do Google](https://developers.google.com/style?hl=pt-br)  
-10 - [Guia de Estilo de Escrita da Microsoft](https://learn.microsoft.com/pt-br/style-guide/welcome/) 
-11 - [Guia de Usuário (User Guide) - Manual de Uso do iPhone](https://support.apple.com/pt-br/guide/iphone/welcome/ios)
+10 - [Guia de Estilo de Escrita da Microsoft](https://learn.microsoft.com/pt-br/style-guide/welcome/)  
+11 - [Guia de Usuário (User Guide) - Manual de Uso do iPhone](https://support.apple.com/pt-br/guide/iphone/welcome/ios)  
 12 - [Guia de Usuário (User Guide) - Manual de Uso do Zoom](https://support.zoom.com/hc/pb/getting-started-with-meetings?id=zoom_meetings_guide)
 
 ## ✨ Contribuidor :writing_hand: 
