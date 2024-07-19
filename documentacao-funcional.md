@@ -28,4 +28,4 @@ No caso de contas para jovens entre 16 e 18 anos, é necessário que um adulto r
 
 ### Crie sua conta
 
-Quer iniciar sua jornada na FireBank? Venha para nosso tutorial de [**Como criar sua conta**](URL)
+Quer iniciar sua jornada na FireBank? Venha para nosso tutorial de [**Como criar sua conta**](https://github.com/pedroar9/technical-writing)
