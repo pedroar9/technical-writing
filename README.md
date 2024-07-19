@@ -32,11 +32,11 @@ Os agradecimentos vão para essa pessoa incrível:
 Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
 
 
-> [!tip] Callouts can have custom titles
+[!tip] Callouts can have custom titles
 > Like this one.
 
 
-> [!tip] Title-only callout
+[!tip] Title-only callout
 
 > [!info]
 > Here's a callout block.
