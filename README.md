@@ -1,6 +1,6 @@
 # :memo: Projeto de Technical Writing (Escrita Técnica)
 
-## :bank: FireBank - Documentações	
+## :bank: FireBank - Documentações	:bank: 
 
 Este repositório faz parte do curso de formação de Technical Writing, da Alura. 
 Nele, você vai encontrar modelos de documentações técnicas que serão abordadas nas aulas com objetivo de fixar seus conhecimentos e trazer modelos de base para você iniciar neste universo de documentar.
