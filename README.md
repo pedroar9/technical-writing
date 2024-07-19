@@ -16,3 +16,12 @@ O curso irá abordar 6 formatos de documentação técnica:
 6 - [Release Notes](https://github.com/marimoreiratw/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-api.md)  
 7 - [Guia de Início Rápido (Quick Start Guide)](https://github.com/marimoreiratw/projeto-alura/blob/main/guia-in%C3%ADcio-r%C3%A1pido.md)  
 8 - [Perguntas frequentes (FAQ)](https://github.com/marimoreiratw/projeto-alura/blob/main/perguntas-frequentes-faq.md)
+
+## ✨ Contribuidor 
+
+Os agradecimentos vão para essa pessoa incrível:
+
+<a href="https://github.com/pedroar9">
+<img src="https://media.licdn.com/dms/image/C4E03AQGT0K0dZtdTHQ/profile-displayphoto-shrink_800_800/0/1563639326413?e=1726704000&v=beta&t=VYcO3MAqWUrouFTSjp_UmPaU4EVtt65txDJzJQJ0zrY" width="80" alt="PESSOA" /></a>  
+
+Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
