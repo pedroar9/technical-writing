@@ -24,6 +24,7 @@ O curso irá abordar diversos formatos de documentação técnica:
 12 - [Guia de Usuário (User Guide) - Manual de Uso do DEBIAN](https://www.debian.org/doc/manuals/debian-faq/basic-defs.pt.html#whatisdebian)  
 13 - [Razões para escolher o Debian](https://www.debian.org/intro/why_debian)  
 
+___
 
 ## ✨ Contribuidor :writing_hand: 
 
@@ -32,6 +33,5 @@ Os agradecimentos vão para essa pessoa incrível:
 <a href="https://github.com/pedroar9">
 <img src="https://media.licdn.com/dms/image/C4E03AQGT0K0dZtdTHQ/profile-displayphoto-shrink_800_800/0/1563639326413?e=1726704000&v=beta&t=VYcO3MAqWUrouFTSjp_UmPaU4EVtt65txDJzJQJ0zrY" width="80" alt="PESSOA" /></a>  
 
-Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
-
+Realizado por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis) ![](estrela.gif)
 ___
