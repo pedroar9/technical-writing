@@ -3,7 +3,8 @@
 ### Contexto 
 A Release Notes (em tradução livre, "Notas de versão") é uma documentação focada em apresentar as principais mudanças, atualizações e novidades de uma nova release, ou seja, de uma nova versão de um produto/serviço.  
 
-## Exemplo de documentação 
+### Exemplo de documentação
+
 ___
 
 # Release FireBank - Versão 1.0.10
