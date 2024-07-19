@@ -32,7 +32,7 @@ Os agradecimentos vão para essa pessoa incrível:
 Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
 
 
-[!NOTE]  Isto é um texto.
+[!NOTE Isto é um texto.]  
 [!TIP] sto é um texto. 
 [!IMPORTANT]  sto é um texto.
 [!CAUTION]  ststo é um texto.o é um texto.
