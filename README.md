@@ -40,7 +40,7 @@ Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
 >This is a standard NOTE block.
 
 
-> [!IMPORTANT](Importante)  
+> [!IMPORTANT Importante](Importante)  
 >
 >
 > This is a standard NOTE block.
