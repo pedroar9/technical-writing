@@ -78,7 +78,8 @@ Você encontra o formulário na seção **Investimentos** dentro da página inic
 
 ### Passo 3 (Opcional): Solicite a portabilidade de contas suas com outros bancos
 
-Outra possibilidade que você tem é de entrar com processo de portabilidade para que todo seu histórico financeiro seja transferido para FireBank. Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de Atendimento pelo Firebot ou no telefone (61) 99999-9999. 
+Outra possibilidade que você tem é de entrar com processo de portabilidade para que todo seu histórico financeiro seja transferido para FireBank.  
+Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de Atendimento pelo Firebot ou no telefone (61) 99999-9999. 
 
 
 ```
