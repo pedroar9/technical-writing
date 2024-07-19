@@ -5,8 +5,10 @@
 O tutorial é uma documentação orientada a tarefas com objetivo de instruir o usuário a realizar uma ação através de um passo a passo. Diferente de um guia how-to, o tutorial é um texto que "pega na mão do usuário" e o guia pelas etapas do conteúdo com foco em garantir que o leitor fixe a informação e compreenda os motivos de cada passo a passo. 
 
 Existem 2 possíveis abordagens para tutoriais 
-1. Fornecer as orientações para uma funcionalidade ou configuração específica For providing a walkthrough of a particular feature.
-2. Fornecer as orientações para que o usuário complete um pequeno projeto. Exemplo: realizar o deploy de uma biblioteca do zero. 
+1. Fornecer as orientações para uma funcionalidade ou configuração específica.  
+Exemplo: para fornecer um passo a passo de um recurso específico.
+2. Fornecer as orientações para que o usuário complete um pequeno projeto.  
+Exemplo: realizar o deploy de uma biblioteca do zero. 
 
 ## Exemplo de documentação 
 
