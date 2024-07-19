@@ -31,9 +31,15 @@ Os agradecimentos vão para essa pessoa incrível:
 
 Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
 
+> [!NOTE]
+>
+> This is a standard NOTE block.
 
-[!NOTE Isto é um texto.]  
-[!TIP] sto é um texto. 
+>[!NOTE]
+>
+>This is a standard NOTE block.
+
+
 [!IMPORTANT]  sto é um texto.
 [!CAUTION]  ststo é um texto.o é um texto.
 [!WARNING]  
