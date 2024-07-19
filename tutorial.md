@@ -48,6 +48,7 @@ O cadastro é rápido e basta você seguir às instruções que cada tela solici
 
 ```
 IMPORTANTE 
+
 Certifique-se de que se trata de um e-mail válido,  
 pois ao final do processo enviamos um link de ativação da sua conta
 

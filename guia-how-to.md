@@ -45,4 +45,4 @@ Antes de iniciar, tenha certeza de que você tem:
 
 
 # Veja também 
-* (Modelo de tutorial](https://github.com/pedroar9/technical-writing/blob/master/tutorial.md)
+* [Modelo de tutorial](https://github.com/pedroar9/technical-writing/blob/master/tutorial.md)
