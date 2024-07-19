@@ -31,7 +31,7 @@ Os agradecimentos vão para essa pessoa incrível:
 
 Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
 
-> [!NOTE]
+> [!NOTA]
 >
 > This is a standard NOTE block.
 
