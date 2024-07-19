@@ -35,12 +35,12 @@ Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
 >
 > This is a standard NOTE block.
 
->[!NOTE]
+>[!NOTE]()
 >
 >This is a standard NOTE block.
 
 
-> [!IMPORTANT]  
+> [!IMPORTANT]()  
 >
 >
 > This is a standard NOTE block.
