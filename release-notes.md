@@ -4,6 +4,7 @@
 A Release Notes (em tradução livre, "Notas de versão") é uma documentação focada em apresentar as principais mudanças, atualizações e novidades de uma nova release, ou seja, de uma nova versão de um produto/serviço.  
 
 ## Exemplo de documentação 
+___
 
 # Release FireBank - Versão 1.0.10
 
@@ -29,3 +30,5 @@ ___
 * **Issues conhecidas (Known issues)**: *casos de erros inesperados ou que já são de conhecimento da equipe. Neste caso, você pode usar o espaço para informar que esta issue está sendo trabalhada para ser solucionada.*
 * **Funcionalidades descontinuadas (deprecated)**: A funcionalidade fica marcada como descontinuada quando uma função ou recurso específico é suportado na liberação atual, mas pode ser removido em uma liberação futura.  
 Em alguns casos, pode ser aconselhável planejar descontinuar o uso da funcionalidade reprovada.
+
+___
