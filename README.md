@@ -8,9 +8,9 @@ Nele, você vai encontrar modelos de documentações técnicas que serão aborda
 ### :books: Tipos de documentação
 O curso irá abordar 6 formatos de documentação técnica:
 
-1 - [Documentação Funcional](https://github.com/pedroar9/technical-writing/master/documentacao-funcional.md)  
-2 - [Tutorial](https://github.com/pedroar9/technical-writing/master/tutorial.md)  
-3 - [Guia how-to (How-to guide)](https://github.com/pedroar9/technical-writing/master/guia-how-to.md)  
+1 - [Documentação Funcional](https://github.com/pedroar9/technical-writing/blob/master/documentacao-funcional.md)  
+2 - [Tutorial](https://github.com/pedroar9/technical-writing/blob/master/tutorial.md)  
+3 - [Guia how-to (How-to guide)](https://github.com/pedroar9/technical-writing/blob/master/guia-how-to.md)  
 4 - [Troubleshooting](https://github.com/pedroar9/technical-writing/blob/master/troubleshooting.md)  
 5 - [Documentação de API](https://github.com/pedroar9/technical-writing/blob/master/documentacao-api.md)  
 6 - [Release Notes](https://github.com/pedroar9/technical-writing/blob/master/release-notes.md)  
