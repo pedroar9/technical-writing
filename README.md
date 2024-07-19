@@ -30,27 +30,3 @@ Os agradecimentos vão para essa pessoa incrível:
 <img src="https://media.licdn.com/dms/image/C4E03AQGT0K0dZtdTHQ/profile-displayphoto-shrink_800_800/0/1563639326413?e=1726704000&v=beta&t=VYcO3MAqWUrouFTSjp_UmPaU4EVtt65txDJzJQJ0zrY" width="80" alt="PESSOA" /></a>  
 
 Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
-
-> [!CAUTION]
->
-> This is a standard NOTE block.
-
->[!NOTE](Nota)
->
->This is a standard NOTE block.
-
-
-> [!IMPORTANT][Importante]  
->
->
-> This is a standard NOTE block.
-
-[!CAUTION]  ststo é um texto.o é um texto.
-[!WARNING]  
-[!ADMINISTRATION]  
-[!AVAILABILITY]  
-[!PREREQUISITES]  
-[!ERROR]  
-[!ADMINISTRATION]  
-[!INFO]  
-[!SUCCESS]
