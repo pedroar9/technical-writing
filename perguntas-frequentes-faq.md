@@ -4,6 +4,7 @@
 FAQ é um acrónimo da expressão inglesa "Frequently Asked Questions" (literalmente traduzida como «Questões Frequentemente Perguntadas») Em português seria algo como "Perguntas frequentes". é a documentação que reúne as dúvidas mais comuns que o usuário pode ter em relação ao seu produto/serviço.  
 Na prática, trata-se de ferramenta estratégica de autoatendimento que tem como objetivo oferecer soluções rápidas para perguntas recorrentes, como questões logísticas, formas de pagamento, dúvidas sobre horário de funcionamento, localização, produtos, e assim por diante. 
 
+___
 
 ## Exemplo de documentação 
 
