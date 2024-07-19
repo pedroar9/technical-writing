@@ -19,7 +19,7 @@ O curso irá abordar diversos formatos de documentação técnica:
 9 - [Guia de Estilo de documentação do Google](https://developers.google.com/style?hl=pt-br)  
 10 - [Guia de Estilo de Escrita da Microsoft](https://learn.microsoft.com/pt-br/style-guide/welcome/) 
 
-## ✨ Contribuidor 
+## ✨ Contribuidor :writing_hand: 
 
 Os agradecimentos vão para essa pessoa incrível:
 
