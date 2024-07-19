@@ -46,7 +46,8 @@ O cadastro é rápido e basta você seguir às instruções que cada tela solici
 
 ```
 IMPORTANTE 
-Certifique-se de que se trata de um e-mail válido, pois ao final do processo enviamos um link de ativação da sua conta
+Certifique-se de que se trata de um e-mail válido,  
+pois ao final do processo enviamos um link de ativação da sua conta
 ``` 
 
 ![Captura de Tela 2023-11-26 às 18 23 05](https://github.com/marimoreiratw/projeto-alura/assets/98783099/a461076c-51d2-4df5-aaa4-cf23a0e44a41)
