@@ -11,9 +11,9 @@ O curso irá abordar 6 formatos de documentação técnica:
 1 - [Documentação Funcional](https://github.com/pedroar9/technical-writing/blob/master/documentacao-funcional.md)  
 2 - [Tutorial](https://github.com/pedroar9/technical-writing/blob/master/tutorial.md)  
 3 - [Guia how-to (How-to guide)](https://github.com/pedroar9/technical-writing/blob/master/blob/main/guia-how-to.md)  
-4 - [Troubleshooting](https://github.com/pedroar9/technical-writing/blob/master/guia-how-to.md)  
-5 - [Documentação de API](https://github.com/pedroar9/technical-writing/blob/master/troubleshooting.md)  
-6 - [Release Notes](https://github.com/pedroar9/technical-writing/blob/master/documentacao-api.md)  
+4 - [Troubleshooting](https://github.com/pedroar9/technical-writing/blob/master/troubleshooting.md)  
+5 - [Documentação de API](https://github.com/pedroar9/technical-writing/blob/master/documentacao-api.md)  
+6 - [Release Notes](https://github.com/pedroar9/technical-writing/blob/master/.md)  
 7 - [Guia de Início Rápido (Quick Start Guide)](https://github.com/marimoreiratw/projeto-alura/blob/main/guia-in%C3%ADcio-r%C3%A1pido.md)  
 8 - [Perguntas frequentes (FAQ)](https://github.com/marimoreiratw/projeto-alura/blob/main/perguntas-frequentes-faq.md)
 
