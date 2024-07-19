@@ -18,9 +18,10 @@ O curso irá abordar diversos formatos de documentação técnica:
 8 - [Perguntas frequentes (FAQ)](https://github.com/pedroar9/technical-writing/blob/master/perguntas-frequentes-faq.md)  
 9 - [Guia de Estilo de documentação do Google](https://developers.google.com/style?hl=pt-br)  
 10 - [Guia de Estilo de Escrita da Microsoft](https://learn.microsoft.com/pt-br/style-guide/welcome/)  
-11 - [Guia de Usuário (User Guide) - Manual de Uso do DEBIAN](https://www.debian.org/doc/manuals/debian-faq/basic-defs.pt.html#whatisdebian)  
-   - 1 [Razões para escolher o Debian](https://www.debian.org/intro/why_debian)  
-12 - [Guia de Usuário (User Guide) - Manual de Uso do Zoom](https://support.zoom.com/hc/pb/getting-started-with-meetings?id=zoom_meetings_guide)
+11 - [Guia de Usuário (User Guide) - Manual de Uso do Zoom](https://support.zoom.com/hc/pb/getting-started-with-meetings?id=zoom_meetings_guide)
+12 - [Guia de Usuário (User Guide) - Manual de Uso do DEBIAN](https://www.debian.org/doc/manuals/debian-faq/basic-defs.pt.html#whatisdebian)  
+13 - [Razões para escolher o Debian](https://www.debian.org/intro/why_debian)  
+
 
 ## ✨ Contribuidor :writing_hand: 
 
