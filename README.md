@@ -40,7 +40,11 @@ Feito por [PedroAr9](https://www.linkedin.com/in/pedrocarlos-assis)
 >This is a standard NOTE block.
 
 
-[!IMPORTANT]  sto é um texto.
+> [!IMPORTANT]  
+>
+>
+> This is a standard NOTE block.
+
 [!CAUTION]  ststo é um texto.o é um texto.
 [!WARNING]  
 [!ADMINISTRATION]  
