@@ -10,15 +10,15 @@ Existem 2 possíveis abordagens para tutoriais
 
 ## Exemplo de documentação 
 
-# Crie uma conta na Bytebank 
+# Crie uma conta na FireBank 
 
 Neste tutorial, você irá entender como iniciar a gestão da sua vida financeira criando uma conta gratuita na Bytebank.
 
 ## Visão Geral 
 
-Ter uma conta é o primeiro passo para iniciar a gestão das suas finanças com os serviços da Bytebank. A partir dela, você poderá acessar os produtos de investimento, realizar transações sem taxas e solicitar um cartão com função dupla de crédito ou débito. 
+Ter uma conta é o primeiro passo para iniciar a gestão das suas finanças com os serviços da FireBank. A partir dela, você poderá acessar os produtos de investimento, realizar transações sem taxas e solicitar um cartão com função dupla de crédito ou débito. 
 
-No caso de correntistas entre 16 e 18 anos, a criação de conta deve ser feita por seu responsável financeiro. Uma vez concluída as etapas, a titularidade é transferida e você pode assumir a gestão da conta pelo aplicativo ou site da Bytebank. 
+No caso de correntistas entre 16 e 18 anos, a criação de conta deve ser feita por seu responsável financeiro. Uma vez concluída as etapas, a titularidade é transferida e você pode assumir a gestão da conta pelo aplicativo ou site da FireBank. 
 
 Você deverá realizar as seguintes etapas para adquirir sua conta: 
 
@@ -36,7 +36,7 @@ Você deverá realizar as seguintes etapas para adquirir sua conta:
 * Documento oficial com foto (RG ou CNH)
 * Comprovante de residência com validade de até 3 meses
 
-### Passo 1: Realizando seu cadastro na Bytebank 
+### Passo 1: Realizando seu cadastro na FireBank 
 
 O cadastro é rápido e basta você seguir às instruções que cada tela solicita:
  
@@ -54,7 +54,7 @@ Certifique-se de que se trata de um e-mail válido, pois ao final do processo en
 1.3 - Crie sua senha de cadastro 
 
 
-Ao final do cadastro, um link de ativação é enviado ao seu e-mail. Basta acessá-lo e você será redirecionado para página inicial da Bytebank: 
+Ao final do cadastro, um link de ativação é enviado ao seu e-mail. Basta acessá-lo e você será redirecionado para página inicial da FireBank: 
 
 
 ![Captura de Tela 2023-11-26 às 18 26 19](https://github.com/marimoreiratw/projeto-alura/assets/98783099/77fd7938-8106-4073-86c0-37023aa705f5)
@@ -78,7 +78,7 @@ Você encontra o formulário na seção **Investimentos** dentro da página inic
 
 ### Passo 3 (Opcional): Solicite a portabilidade de contas suas com outros bancos
 
-Outra possibilidade que você tem é de entrar com processo de portabilidade para que todo seu histórico financeiro seja transferido para Bytebank. Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de Atendimento pelo Bytebot ou no telefone (11) 00000-0000. 
+Outra possibilidade que você tem é de entrar com processo de portabilidade para que todo seu histórico financeiro seja transferido para FireBank. Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de Atendimento pelo Firebot ou no telefone (61) 99999-9999. 
 
 
 ```
