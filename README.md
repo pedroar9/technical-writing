@@ -15,8 +15,8 @@ O curso irá abordar 6 formatos de documentação técnica:
 5 - [Documentação de API](https://github.com/pedroar9/technical-writing/blob/master/documentacao-api.md)  
 6 - [Notas de versão (Release Notes)](https://github.com/pedroar9/technical-writing/blob/master/release-notes.md)  
 7 - [Guia de Início Rápido (Quick Start Guide)](https://github.com/pedroar9/technical-writing/blob/master/guia-inicio-rapido.md)  
-8 - [Perguntas frequentes (FAQ)](https://github.com/pedroar9/technical-writing/blob/master/perguntas-frequentes-faq.md)
-9 - [Guia de Estilo de documentação do Google](https://developers.google.com/style?hl=pt-br)
+8 - [Perguntas frequentes (FAQ)](https://github.com/pedroar9/technical-writing/blob/master/perguntas-frequentes-faq.md)  
+9 - [Guia de Estilo de documentação do Google](https://developers.google.com/style?hl=pt-br)  
 10 - [Guia de Estilo de Escrita da Microsoft](https://learn.microsoft.com/pt-br/style-guide/welcome/) 
 
 ## ✨ Contribuidor 
