@@ -22,7 +22,7 @@ O curso irá abordar diversos formatos de documentação técnica:
 10 - [Guia de Estilo de documentação da Red Hat](https://redhat-documentation.github.io/supplementary-style-guide/)  
 11 - [Guia de Estilo de Escrita da Microsoft](https://learn.microsoft.com/pt-br/style-guide/welcome/)  
 12 - [Guia de Usuário (User Guide) - Manual de Uso do Zoom](https://support.zoom.com/hc/pb/getting-started-with-meetings?id=zoom_meetings_guide)  
-13 - [Guia de Usuário (User Guide) - Manual de Uso do Debian](https://www.debian.org/doc/manuals/debian-faq/basic-defs.pt.html#whatisdebian) 
+13 - [Guia de Usuário (User Guide) - Manual de Uso do Debian](https://www.debian.org/doc/manuals/debian-faq/basic-defs.pt.html#whatisdebian)  
 14 - [Razões para escolher o Debian](https://www.debian.org/intro/why_debian)  
 
 ___
