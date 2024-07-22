@@ -27,7 +27,6 @@ O curso irá abordar diversos formatos de documentação técnica:
 
 ___
 
-
 ## ✨ Contribuidor :writing_hand: 
 
 Os agradecimentos vão para essa pessoa incrível:
